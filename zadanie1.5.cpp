@@ -120,6 +120,7 @@ int strzalG(int tabK[10][10])
         if(tabK[x][y]==0)
         {
             cout<<"Pudło!"<<endl;
+            tabK[x][y]
             trafienie=false;
 
         }
